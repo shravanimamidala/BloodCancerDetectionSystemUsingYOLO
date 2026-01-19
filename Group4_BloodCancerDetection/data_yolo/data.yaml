@@ -1,0 +1,10 @@
+names:
+- basophil
+- erythroblast
+- monocyte
+- myeloblast
+- seg_neutrophil
+nc: 5
+path: C:\Users\shrav\OneDrive\Desktop\Tetsing\data_yolo
+train: train/images
+val: val/images
